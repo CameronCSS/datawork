@@ -1,41 +1,53 @@
-name,phone,url
-Natomas Middle School,+1 916-567-5540,www.natomasunified.org
-H Allen Hight Elementary School,+1 916-567-5700,www.natomasunified.org
-Heron K-8 School,+1 916-567-5680,natomas.k12.ca.us
-Witter Ranch Elementary School,+1 916-567-5620,natomas.k12.ca.us
-Inderkum High School,+1 916-567-5640,www.natomasunified.org
-Natomas Pacific Pathways Prep School-Middle,+1 916-567-5740,www.natomasunified.org
-California Interscholastic Federation,+1 916-239-4477,www.ca-usaw.org
-Merryhill School,+1 916-285-0503,www.merryhillschool.com
-Natomas Charter School,+1 916-419-8563,Not Listed
-Natomas Pacific Pathways Prep Elementary,Not Listed,Not Listed
-Maryhill School,+1 916-575-9603,www.merryhillschool.com/preschools/sacramento/natomas
-Fortune School of Education,+1 916-924-8633,www.fortuneschool.us
-Two Rivers Elementary School,+1 916-567-5520,www.natomasunified.org
-Alyce Norman Educational Center-Child Center,+1 916-375-7650,preschool.wusd.k12.ca.us
-Holy Cross College Preparatory Academy,+1 916-371-1313,Not Listed
-Washington Children's Center,+1 916-375-7642,wusd.k12.ca.us
-Riverbank Elementary School,+1 916-375-7700,riverbank-wusd-ca.schoolloop.com
-Washington Unified School District,+1 916-375-7644,www.wusd.k12.ca.us
-California College Career Technical Education Center,+1 916-371-2833,Not Listed
-Ccctec Charter School,+1 916-596-6930,Not Listed
-River Charter Schools Lighthouse Charter,Not Listed,Not Listed
-Washington Middle College High School,Not Listed,Not Listed
-Regency Park Elementary School,+1 916-566-1660,www.beanstalk.com
-Bryte Elementary School,+1 916-375-7660,www.wusd.k12.ca.us
-Leroy Greene Academy,+1 916-567-5560,www.leroygreene.com
-Natomas Park Elementary School,+1 916-928-5234,www.natomasunified.org
-Giggles 'n Wiggles Kinder Prep,+1 916-515-2030,www.gignwig.com
-Vital Ethics,+1 916-333-4794,Not Listed
-Natomas Charter School,+1 916-928-5353,www.natomascharter.org
-Automotive Training Schools,+1 916-928-1331,www.autotrainingschools.com
-Jie Ping Academy,+1 916-888-6029,www.jiepingacademy.org/
-Natomas Unified School District,+1 916-567-5401,www.natomasschoolsfoundation.org
-Sunshine Academy,+1 209-595-1875,Not Listed
-Del Dayo Elementary School,+1 916-575-2323,Not Listed
-Jefferson School,+1 916-567-5580,natomas.k12.ca.us
-Elkhorn Village Elementary School,+1 916-375-7670,elkhorn.wusd.k12.ca.us
-Bannon Creek Elementary School,+1 916-567-5600,www.natomasunified.org
-Dale Carnegie Training,+1 916-696-6737,www.dalecarnegie.com
-Read Academy of Sacramento,+1 916-258-2080,www.readacademy.com
-CGL,+1 916-678-7890,Not Listed
+name,phone,url,address
+Natomas Middle School,+1 916-567-5540,www.natomasunified.org,"3200 North Park Drive, Sacramento, CA 95835"
+H Allen Hight Elementary School,+1 916-567-5700,www.natomasunified.org,"3200 North Park Drive, Sacramento, CA 95835"
+Heron K-8 School,+1 916-567-5680,natomas.k12.ca.us,"5151 Banfield Drive, Sacramento, CA 95835"
+Witter Ranch Elementary School,+1 916-567-5620,natomas.k12.ca.us,"3790 Poppy Hill Way, Sacramento, CA 95834"
+Inderkum High School,+1 916-567-5640,www.natomasunified.org,"2500 New Market Drive, Sacramento, CA 95835"
+Natomas Pacific Pathways Prep School-Middle,+1 916-567-5740,www.natomasunified.org,"3700 Del Paso Road, Sacramento, CA 95834"
+California Interscholastic Federation,+1 916-239-4477,www.ca-usaw.org,"4658 Duckhorn Drive, Sacramento, CA 95834"
+Maryhill School,+1 916-575-9603,www.merryhillschool.com/preschools/sacramento/natomas,"2855 Karitsa Avenue, Sacramento, CA 95833"
+Fortune School of Education,+1 916-924-8633,www.fortuneschool.us,"2890 Gateway Oaks Drive, Sacramento, CA 95833"
+Natomas Unified School District,+1 916-567-5401,www.natomasschoolsfoundation.org,"1901 Arena Boulevard, Sacramento, CA 95834"
+Regency Park Elementary School,+1 916-566-1660,www.beanstalk.com,"5901 Bridgecross Drive, Sacramento, CA 95835"
+Jie Ping Academy,+1 916-888-6029,www.jiepingacademy.org/,"1921 Arena Boulevard, Sacramento, CA 95834"
+Giggles 'n Wiggles Kinder Prep,+1 916-515-2030,www.gignwig.com,"1561 Baines Avenue, Sacramento, CA 95835"
+Merryhill School,+1 916-285-0503,www.merryhillschool.com,"1901 Danbrook Drive, Sacramento, CA 95835"
+Natomas Charter School,+1 916-928-5353,www.natomascharter.org,"4600 Blackrock Drive, Sacramento, CA 95835"
+Natomas Park Elementary School,+1 916-928-5234,www.natomasunified.org,"4700 Crest Drive, Sacramento, CA 95835"
+Natomas Charter School,+1 916-419-8563,Not Listed,"2920 Advantage Way, Sacramento, CA 95834"
+Natomas Pacific Pathways Prep Elementary,Not Listed,Not Listed,"4400 East Commerce Way, Sacramento, CA 95834"
+Sunshine Academy,+1 209-595-1875,Not Listed,"2207 Drusy Avenue, Sacramento, CA 95834"
+Vital Ethics,+1 916-333-4794,Not Listed,"471 Regency Park Circle, Sacramento, CA 95835"
+Leroy Greene Academy,+1 916-567-5560,www.leroygreene.com,"2950 West River Drive, Sacramento, CA 95833"
+Dale Carnegie Training,+1 916-696-6737,www.dalecarnegie.com,"2804 Gateway Oaks Drive, Sacramento, CA 95833"
+Two Rivers Elementary School,+1 916-567-5520,www.natomasunified.org,"3201 West River Drive, Sacramento, CA 95833"
+Washington Unified School District,+1 916-375-7644,www.wusd.k12.ca.us,"1290 Carrie Street, West Sacramento, CA 95605"
+Washington Children's Center,+1 916-375-7642,wusd.k12.ca.us,"1290 Carrie Street, West Sacramento, CA 95605"
+California College Career Technical Education Center,+1 916-371-2833,Not Listed,"890 Embarcadero Drive, West Sacramento, CA 95605"
+Ccctec Charter School,+1 916-596-6930,Not Listed,"890 Embarcadero Drive, West Sacramento, CA 95605"
+Washington Middle College High School,Not Listed,Not Listed,"637 Todhunter Ave, West Sacramento, CA 95605"
+Westfield Village Elementary School,+1 916-375-7720,westfield-wusd-ca.schoolloop.com,"508 Poplar Avenue, West Sacramento, CA 95691"
+Alyce Norman Educational Center-Child Center,+1 916-375-7650,preschool.wusd.k12.ca.us,"1200 Anna Street, West Sacramento, CA 95605"
+Bryte Elementary School,+1 916-375-7660,www.wusd.k12.ca.us,"637 Todhunter Ave, West Sacramento, CA 95605"
+Washington Unified School District,+1 916-375-7600,www.wusd.k12.ca.us,"930 Westacre Road, West Sacramento, CA 95691"
+Holy Cross College Preparatory Academy,+1 916-371-1313,Not Listed,"800 Todhunter Avenue, West Sacramento, CA 95605"
+Riverbank Elementary School,+1 916-375-7700,riverbank-wusd-ca.schoolloop.com,"1100 Carrie Street, West Sacramento, CA 95605"
+Westmore Oaks School,+1 916-375-7730,westmore-wusd-ca.schoolloop.com,"1100 Clarendon Street, West Sacramento, CA 95691"
+Sacramento Valley Charter School,+1 916-596-6422,www.sacvalleycharter.org,"2399 Sellers Way, West Sacramento, CA 95691"
+West Sacramento School Independent Study,+1 916-375-7748,Not Listed,"920 Westacre Road, West Sacramento, CA 95691"
+River Charter Schools Lighthouse Charter,Not Listed,Not Listed,"899 Bryte Avenue, West Sacramento, CA 95605"
+Bryte Christian Academy,Not Listed,Not Listed,"1000 Sacramento Avenue, West Sacramento, CA 95605"
+Automotive Training Schools,+1 916-928-1331,www.autotrainingschools.com,"1418 North Market Boulevard, Sacramento, CA 95834"
+Jefferson School,+1 916-567-5580,natomas.k12.ca.us,"2001 Pebblewood Drive, Sacramento, CA 95833"
+Elkhorn Village Elementary School,+1 916-375-7670,elkhorn.wusd.k12.ca.us,"750 Cummins Way, West Sacramento, CA 95605"
+Westside Elementary School,Not Listed,Not Listed,"6537 West 2nd Street, Rio Linda, CA 95673"
+Elverta Elementary School,Not Listed,Not Listed,"7900 Eloise Avenue, Elverta, CA 95626"
+Sava North Sacramento,Not Listed,Not Listed,"1214 North Market Boulevard, Sacramento, CA 95834"
+Natomas High School,+1 916-641-4960,www.natomasunified.org,"3301 Fong Ranch Road, Sacramento, CA 95834"
+Natomas Charter School Pact,+1 916-419-3788,www.pact.natomascharter.org,"1172 National Drive, Sacramento, CA 95834"
+Del Dayo Elementary School,+1 916-575-2323,Not Listed,"3701 Lennane Drive, Sacramento, CA 95834"
+Bannon Creek Elementary School,+1 916-567-5600,www.natomasunified.org,"2775 Millcreek Drive, Sacramento, CA 95833"
+American Lakes School,+1 916-567-5500,www.natomasunified.org,"2800 Stonecreek Drive, Sacramento, CA 95833"
+Read Academy of Sacramento,+1 916-258-2080,www.readacademy.com,"2565 Millcreek Drive, Sacramento, CA 95833"
+CGL,+1 916-678-7890,Not Listed,"2485 Natomas Park Drive, Sacramento, CA 95833"
