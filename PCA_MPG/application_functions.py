@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 import streamlit as st
-import plotly.express as px
 from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 import numpy as np
